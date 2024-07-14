@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af2e2a0a-16c6-4e5a-9531-667e346fe362" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report.py" afterDir="false" />
+    <list default="true" id="af2e2a0a-16c6-4e5a-9531-667e346fe362" name="Changes" comment="caffe maschine">
+      <changelist_data name="RadoslawMusial" email="onlynaves@gmail.com" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +13,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="RadoslawMusial &lt;onlynaves@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -78,6 +76,51 @@
       <option name="presentableId" value="Default" />
       <updated>1720912273901</updated>
     </task>
+    <task id="LOCAL-00001" summary="caffe maschine">
+      <option name="closed" value="true" />
+      <created>1720915120382</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720915120382</updated>
+    </task>
+    <task id="LOCAL-00002" summary="caffe maschine">
+      <option name="closed" value="true" />
+      <created>1720915180404</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1720915180404</updated>
+    </task>
+    <task id="LOCAL-00003" summary="caffe maschine">
+      <option name="closed" value="true" />
+      <created>1720915192407</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1720915192407</updated>
+    </task>
+    <task id="LOCAL-00004" summary="caffe maschine">
+      <option name="closed" value="true" />
+      <created>1720915208352</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1720915208352</updated>
+    </task>
+    <task id="LOCAL-00005" summary="caffe maschine">
+      <option name="closed" value="true" />
+      <created>1720915245866</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1720915245866</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="caffe maschine" />
+    <option name="LAST_COMMIT_MESSAGE" value="caffe maschine" />
   </component>
 </project>
